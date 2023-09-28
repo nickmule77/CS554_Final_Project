@@ -1,4 +1,4 @@
-# CS554_Final_Project
+# CS554_Based_Project
 What is LiftTrek about? 
 Ever wanted to start working out, but did not know where to start? With countless muscles on the human body, and even more possible exercises, the options can be overwhelming and result in demotivation. With LiftTrek, you would be able to choose from a variety of muscles or muscle groups with a specific goal, and create a workout plan! At the same time, users can track their progress by uploading pictures after their workouts (with basic editing capabilities). Functioning as a form of social media, users can view exercise plans of other users and relevant images, leaving comments, likes, or adding the workout to their favorites.
 
@@ -22,3 +22,5 @@ In the other terminal, the lifttrek one, simply run 'npm start', and use the web
 
 The firebase authentication information is shared with the TA already.
 The AWS S3 information is cslifttrek@gmail.com, with password CS554_23
+
+Note: The project may be largely unusable due to the AWS S3 account being closed/unmaintained, however a video will be provided showing website capabilities.
